@@ -1,0 +1,5 @@
+{"ts": 1778601590.8285806, "level": "INFO", "event": "agent_step", "data": {"iteration": 1, "done": false, "summary": ""}}
+{"ts": 1778601755.2864172, "level": "INFO", "event": "confirmation", "data": {"title": "Run command: dir", "ok": true}}
+{"ts": 1778601755.2873075, "level": "INFO", "event": "run_command", "data": {"cmd": "dir", "cwd": "C:\\Users\\Parsa\\Desktop"}}
+{"ts": 1778601755.304197, "level": "INFO", "event": "run_command", "data": {"cmd": "dir", "ok": true}}
+{"ts": 1778601953.1343734, "level": "INFO", "event": "agent_step", "data": {"iteration": 2, "done": false, "summary": ""}}
