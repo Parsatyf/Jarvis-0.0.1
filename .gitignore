@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+
+# Local environment files
+.env
+
+# Local IDE settings
+.vscode/
+.idea/
+
+# Agent state and logs
+agent_state/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
