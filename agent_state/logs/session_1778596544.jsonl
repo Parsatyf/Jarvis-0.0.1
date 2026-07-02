@@ -1,3 +1,0 @@
-{"ts": 1778596545.8756027, "level": "ERROR", "event": "ollama_call_failed", "data": {"error": "404 Client Error: Not Found for url: http://localhost:11434/api/generate"}}
-{"ts": 1778596648.2790473, "level": "ERROR", "event": "ollama_call_failed", "data": {"error": "404 Client Error: Not Found for url: http://localhost:11434/api/generate"}}
-{"ts": 1778596651.5865607, "level": "ERROR", "event": "ollama_call_failed", "data": {"error": "404 Client Error: Not Found for url: http://localhost:11434/api/generate"}}

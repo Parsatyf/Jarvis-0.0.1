@@ -1,4 +1,0 @@
-{"ts": 1778599838.1505928, "level": "ERROR", "event": "ollama_call_failed", "data": {"error": "HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)"}}
-{"ts": 1778600064.3123317, "level": "ERROR", "event": "ollama_call_failed", "data": {"error": "HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)"}}
-{"ts": 1778600258.374292, "level": "ERROR", "event": "ollama_call_failed", "data": {"error": "HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)"}}
-{"ts": 1778600822.9928794, "level": "ERROR", "event": "ollama_call_failed", "data": {"error": "HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)"}}

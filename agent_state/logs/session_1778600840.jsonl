@@ -1,5 +1,0 @@
-{"ts": 1778600959.5299008, "level": "INFO", "event": "agent_step", "data": {"iteration": 1, "done": false, "summary": ""}}
-{"ts": 1778600986.332236, "level": "INFO", "event": "confirmation", "data": {"title": "Run command: print('Hello Jarvis')", "ok": true}}
-{"ts": 1778600986.3335342, "level": "INFO", "event": "run_command", "data": {"cmd": "print('Hello Jarvis')", "cwd": "C:\\Users\\Parsa\\Desktop\\jarvis"}}
-{"ts": 1778600986.373528, "level": "INFO", "event": "run_command", "data": {"cmd": "print('Hello Jarvis')", "ok": true}}
-{"ts": 1778601286.4000053, "level": "ERROR", "event": "ollama_call_failed", "data": {"error": "HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=300)"}}

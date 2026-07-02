@@ -1,1 +1,0 @@
-{"ts": 1778597856.9598706, "level": "ERROR", "event": "ollama_call_failed", "data": {"error": "ollama_call_failed: url=http://localhost:11434/api/generate, error=HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=90), body=None"}}
